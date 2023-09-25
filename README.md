@@ -1,3 +1,10 @@
+# What am I doing here?
++ UI/UX Optimization
++ Small custom area
++ What seems fun
+
+> Below is the orignal README contents for Daggerfall Unity
+
 # What is Daggerfall Unity?
 
 > Daggerfall Unity is an open source recreation of Daggerfall in the Unity engine created by [Daggerfall Workshop](http://www.dfworkshop.net).
